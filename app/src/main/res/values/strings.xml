@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TravelMantics-ALC</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_insert">Insert Activity</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_init">Init Activity</string>
+</resources>
